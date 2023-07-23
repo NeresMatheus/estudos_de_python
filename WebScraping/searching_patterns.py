@@ -1,3 +1,5 @@
+
+
 def sec_pattern():
     search_pattern = []
 
@@ -9,3 +11,12 @@ def sec_pattern():
         'Secretaria de Estado do Meio Ambiente e do desenvolvimento Sustentável')
 
     return search_pattern
+
+
+def match_pattern(page, patterns):
+
+    for pattern in patterns:
+        if page.find(pattern) != -1:
+            searched_pattern = pattern
+
+    return searched_pattern
