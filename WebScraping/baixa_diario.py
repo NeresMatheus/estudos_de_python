@@ -68,7 +68,7 @@ def download_diario(ano, mes, dia):
         browser.find_element(By.ID, 'pesquisarSomenteData').click()
         browser.find_element(By.ID, 'linkDownloadPDF').click()
         sleep(TIME_TO_WAIT)
-        # result = (str(dia) + '/' + str(mes) + '/' + str(ano), 'succeed')
+        result = (str(dia) + '/' + str(mes) + '/' + str(ano), 'succeed')
     except:
         result = (str(dia) + '/' + str(mes) + '/' + str(ano), 'failed')
 
