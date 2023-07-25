@@ -78,4 +78,3 @@ def download_diario(ano, mes, dia):
 if __name__ == '__main__':
     resultado = download_diario(2023, 7, 20)
     print(resultado)
-    TIME_TO_WAIT = 10

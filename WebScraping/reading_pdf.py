@@ -1,8 +1,9 @@
-import PyPDF2
+from PyPDF2 import PdfReader
 from os import listdir, chdir, getcwd
 from os.path import isfile, join
-from get_logs import make_pattern_log, make_fPage_log, make_lPage_log
+from get_logs import make_pattern_log, make_fPage_log, make_lPage_log, make_meta_log
 from searching_patterns import sec_pattern, match_pattern
+import text_process
 
 
 def get_first_page(end_position, first_page):
@@ -47,7 +48,7 @@ def get_content_pages(page, pdf_file):
             search_pattern = 'Secretaria de Estado do Meio Ambiente e do desenvolvimento Sustentável'
     """
 
-    pattern = match_pattern(first_page, sec_pattern())
+    pattern, index = match_pattern(first_page, sec_pattern())
 
     init_position = first_page.find(pattern)
     end_position = init_position + len(pattern)
@@ -71,9 +72,11 @@ def extract_content(reader, first_page, last_page, pdf_file):
     initia_path = getcwd()
     chdir('D:\Gits_clonados\Projetos_pessoais\estudos_de_python\WebScraping\Txts')
 
-    with open(file_name, 'w', encoding="utf-8") as f:
+    with open(file_name, 'a', encoding="utf-8") as f:
         while first_page <= last_page:
             texto = reader.pages[first_page].extract_text()
+            texto = text_process.remove_breaks(texto)
+            texto = text_process.remove_duplicate_punctuation(texto)
             f.write(texto)
             first_page += 1
 
@@ -93,7 +96,7 @@ def read_pdf_files():
 
         with open(pdf_path, 'rb') as file_pdf:
 
-            reader = PyPDF2.PdfReader(file_pdf)
+            reader = PdfReader(file_pdf)
 
             page = reader.pages[0]
 
@@ -120,6 +123,7 @@ if __name__ == '__main__':
 
 
     """
+    # Change for absolute path
     pdf_dir = 'WebScraping\pdfs'
 
     pdf_files = [f for f in listdir(pdf_dir) if isfile(join(pdf_dir, f))]
@@ -130,7 +134,9 @@ if __name__ == '__main__':
 
         with open(pdf_path, 'rb') as file_pdf:
 
-            reader = PyPDF2.PdfReader(file_pdf)
+            reader = PdfReader(file_pdf)
+            meta = reader.metadata
+            make_meta_log(pdf_file, meta)
 
             page = reader.pages[0]
 

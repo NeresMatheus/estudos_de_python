@@ -1,0 +1,380 @@
+
+caderno1_2010-12-16.pdf
+posição inicial: 18
+posição final: 19
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2011-07-27.pdf
+posição inicial: 17
+posição final: 19
+conteudo: Secretaria de Estado do Meio Ambiente e do desenvolvimento Sustentável
+
+caderno1_2012-07-27.pdf
+posição inicial: 30
+posição final: 31
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2013-07-27.pdf
+posição inicial: 30
+posição final: 30
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2014-07-22.pdf
+posição inicial: 34
+posição final: 35
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2015-07-22.pdf
+posição inicial: 26
+posição final: 28
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2016-07-22.pdf
+posição inicial: 25
+posição final: 26
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2017-07-25.pdf
+posição inicial: 11
+posição final: 14
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2018-07-24.pdf
+posição inicial: 7
+posição final: 8
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2019_07_20.pdf
+posição inicial: 6
+posição final: 8
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2020_07_21.pdf
+posição inicial: 7
+posição final: 9
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2021_07_21.pdf
+posição inicial: 11
+posição final: 11
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2022_07_21.pdf
+posição inicial: 14
+posição final: 15
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2023_07_18.pdf
+posição inicial: 14
+posição final: 17
+conteudo: Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável
+
+caderno1_2023_07_20.pdf
+posição inicial: 11
+posição final: 12
+conteudo: Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável
+
+caderno1_2010-12-16.pdf
+posição inicial: 18
+posição final: 19
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2011-07-27.pdf
+posição inicial: 17
+posição final: 19
+conteudo: Secretaria de Estado do Meio Ambiente e do desenvolvimento Sustentável
+
+caderno1_2012-07-27.pdf
+posição inicial: 30
+posição final: 31
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2013-07-27.pdf
+posição inicial: 30
+posição final: 30
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2014-07-22.pdf
+posição inicial: 34
+posição final: 35
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2015-07-22.pdf
+posição inicial: 26
+posição final: 28
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2016-07-22.pdf
+posição inicial: 25
+posição final: 26
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2017-07-25.pdf
+posição inicial: 11
+posição final: 14
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2018-07-24.pdf
+posição inicial: 7
+posição final: 8
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2019_07_20.pdf
+posição inicial: 6
+posição final: 8
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2020_07_21.pdf
+posição inicial: 7
+posição final: 9
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2021_07_21.pdf
+posição inicial: 11
+posição final: 11
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2022_07_21.pdf
+posição inicial: 14
+posição final: 15
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2023_07_18.pdf
+posição inicial: 14
+posição final: 17
+conteudo: Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável
+
+caderno1_2023_07_20.pdf
+posição inicial: 11
+posição final: 12
+conteudo: Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável
+
+caderno1_2010-12-16.pdf
+posição inicial: 18
+posição final: 19
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2010-12-16.pdf
+posição inicial: 18
+posição final: 19
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2011-07-27.pdf
+posição inicial: 17
+posição final: 19
+conteudo: Secretaria de Estado do Meio Ambiente e do desenvolvimento Sustentável
+
+caderno1_2012-07-27.pdf
+posição inicial: 30
+posição final: 31
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2013-07-27.pdf
+posição inicial: 30
+posição final: 30
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2014-07-22.pdf
+posição inicial: 34
+posição final: 35
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2015-07-22.pdf
+posição inicial: 26
+posição final: 28
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2016-07-22.pdf
+posição inicial: 25
+posição final: 26
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2017-07-25.pdf
+posição inicial: 11
+posição final: 14
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2018-07-24.pdf
+posição inicial: 7
+posição final: 8
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2019_07_20.pdf
+posição inicial: 6
+posição final: 8
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2020_07_21.pdf
+posição inicial: 7
+posição final: 9
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2021_07_21.pdf
+posição inicial: 11
+posição final: 11
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2022_07_21.pdf
+posição inicial: 14
+posição final: 15
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2023_07_18.pdf
+posição inicial: 14
+posição final: 17
+conteudo: Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável
+
+caderno1_2023_07_20.pdf
+posição inicial: 11
+posição final: 12
+conteudo: Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável
+
+caderno1_2010-12-16.pdf
+posição inicial: 18
+posição final: 19
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2011-07-27.pdf
+posição inicial: 17
+posição final: 19
+conteudo: Secretaria de Estado do Meio Ambiente e do desenvolvimento Sustentável
+
+caderno1_2012-07-27.pdf
+posição inicial: 30
+posição final: 31
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2013-07-27.pdf
+posição inicial: 30
+posição final: 30
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2014-07-22.pdf
+posição inicial: 34
+posição final: 35
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2015-07-22.pdf
+posição inicial: 26
+posição final: 28
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2016-07-22.pdf
+posição inicial: 25
+posição final: 26
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2017-07-25.pdf
+posição inicial: 11
+posição final: 14
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2018-07-24.pdf
+posição inicial: 7
+posição final: 8
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2019_07_20.pdf
+posição inicial: 6
+posição final: 8
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2020_07_21.pdf
+posição inicial: 7
+posição final: 9
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2021_07_21.pdf
+posição inicial: 11
+posição final: 11
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2022_07_21.pdf
+posição inicial: 14
+posição final: 15
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2023_07_18.pdf
+posição inicial: 14
+posição final: 17
+conteudo: Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável
+
+caderno1_2023_07_20.pdf
+posição inicial: 11
+posição final: 12
+conteudo: Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável
+
+caderno1_2010-12-16.pdf
+posição inicial: 18
+posição final: 19
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2011-07-27.pdf
+posição inicial: 17
+posição final: 19
+conteudo: Secretaria de Estado do Meio Ambiente e do desenvolvimento Sustentável
+
+caderno1_2012-07-27.pdf
+posição inicial: 30
+posição final: 31
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2013-07-27.pdf
+posição inicial: 30
+posição final: 30
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2014-07-22.pdf
+posição inicial: 34
+posição final: 35
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2015-07-22.pdf
+posição inicial: 26
+posição final: 28
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2016-07-22.pdf
+posição inicial: 25
+posição final: 26
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2017-07-25.pdf
+posição inicial: 11
+posição final: 14
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2018-07-24.pdf
+posição inicial: 7
+posição final: 8
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2019_07_20.pdf
+posição inicial: 6
+posição final: 8
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2020_07_21.pdf
+posição inicial: 7
+posição final: 9
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2021_07_21.pdf
+posição inicial: 11
+posição final: 11
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2022_07_21.pdf
+posição inicial: 14
+posição final: 15
+conteudo: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+
+caderno1_2023_07_18.pdf
+posição inicial: 14
+posição final: 17
+conteudo: Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável
+
+caderno1_2023_07_20.pdf
+posição inicial: 11
+posição final: 12
+conteudo: Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável

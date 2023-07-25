@@ -1,3 +1,12 @@
+def make_meta_log(pdf_file, meta):
+    with open('meta_log.txt', 'a') as f:
+        f.write(pdf_file+'\n')
+        f.write(str(meta.author)+'\n')
+        f.write(str(meta.creator)+'\n')
+        f.write(str(meta.producer)+'\n')
+        f.write(str(meta.subject)+'\n')
+        f.write(str(meta.title)+'\n'+'\n')
+
 
 def make_pattern_log(pdf_file, init_position, end_position, content_first_page,
                      content_last_page, first_page):
@@ -39,4 +48,14 @@ def make_lPage_log(pdf_file, flag, end_position, first_page):
     if flag == 1:
         with open('last_page_log.txt', 'a', encoding="utf-8") as f:
             f.write(first_page[end_position])
+    return
+
+
+def txt_pattern_log(txt_file, result):
+    with open('txt_pattern_log.txt', 'a', encoding="utf-8") as f:
+
+        log = '\n' + txt_file
+        log += '\nresultado: ' + result + '\n'
+        f.write(log)
+
     return
