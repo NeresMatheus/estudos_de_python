@@ -51,11 +51,26 @@ def make_lPage_log(pdf_file, flag, end_position, first_page):
     return
 
 
-def txt_pattern_log(txt_file, result):
+def publication_log(txt_file, pucliation_list, content):
+    with open('re_teste.txt', 'a', encoding='utf-8') as f:
+        log = '\n\t----' + txt_file
+        for i, p in enumerate(pucliation_list):
+            log += "\nposição: " + str(p.start())
+            log += "\nindice: " + str(i)
+            log += "\nconteudo: " + p.group()
+            log += "\nconteudo: " + \
+                content[p.start()-3:p.start()+15]
+            f.write(log)
+
+    return
+
+
+def txt_pattern_log(txt_file, result, n_publications):
     with open('txt_pattern_log.txt', 'a', encoding="utf-8") as f:
 
         log = '\n' + txt_file
-        log += '\nresultado: ' + result + '\n'
+        log += '\nresultado: ' + result
+        log += '\nnº de publicações: ' + str(n_publications) + '\n'
         f.write(log)
 
     return

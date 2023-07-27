@@ -1,45 +1,180 @@
 
 caderno1_2010-12-16.txt
 resultado: Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável
+nº de publicações: 8
 
 caderno1_2011-07-27.txt
-resultado: Secretaria de Estado do meio Ambiente e do Desenvolvimento Sustentável
+resultado: failed
+nº de publicações: 23
 
 caderno1_2012-07-27.txt
-resultado: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+resultado: failed
+nº de publicações: 13
 
 caderno1_2013-07-27.txt
-resultado: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+resultado: failed
+nº de publicações: 9
 
 caderno1_2014-07-22.txt
-resultado: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+resultado: failed
+nº de publicações: 16
 
 caderno1_2015-07-22.txt
-resultado: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+resultado: failed
+nº de publicações: 26
 
 caderno1_2016-07-22.txt
-resultado: Secretaria de Estado do meio Ambiente e do Desenvolvimento Sustentável
+resultado: failed
+nº de publicações: 25
 
 caderno1_2017-07-25.txt
-resultado: Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável
+resultado: failed
+nº de publicações: 21
 
 caderno1_2018-07-24.txt
 resultado: Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável
+nº de publicações: 23
+
+caderno1_2019_07_20.txt
+resultado: failed
+nº de publicações: 32
+
+caderno1_2020_07_21.txt
+resultado: failed
+nº de publicações: 22
+
+caderno1_2021_07_21.txt
+resultado: failed
+nº de publicações: 11
+
+caderno1_2022_07_21.txt
+resultado: failed
+nº de publicações: 26
+
+caderno1_2023_07_18.txt
+resultado: failed
+nº de publicações: 24
+
+caderno1_2023_07_20.txt
+resultado: failed
+nº de publicações: 27
+
+caderno1_2010-12-16.txt
+resultado: Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável
+nº de publicações: 8
+
+caderno1_2011-07-27.txt
+resultado: Secretaria de Estado do meio Ambiente e do Desenvolvimento Sustentável
+nº de publicações: 23
+
+caderno1_2012-07-27.txt
+resultado: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+nº de publicações: 13
+
+caderno1_2013-07-27.txt
+resultado: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+nº de publicações: 9
+
+caderno1_2014-07-22.txt
+resultado: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+nº de publicações: 16
+
+caderno1_2015-07-22.txt
+resultado: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+nº de publicações: 26
+
+caderno1_2016-07-22.txt
+resultado: Secretaria de Estado do meio Ambiente e do Desenvolvimento Sustentável
+nº de publicações: 97
+
+caderno1_2017-07-25.txt
+resultado: Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável
+nº de publicações: 21
+
+caderno1_2018-07-24.txt
+resultado: Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável
+nº de publicações: 23
 
 caderno1_2019_07_20.txt
 resultado: Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável
+nº de publicações: 32
 
 caderno1_2020_07_21.txt
 resultado: Secretaria de Estado do meio Ambiente e do Desenvolvimento Sustentável
+nº de publicações: 22
 
 caderno1_2021_07_21.txt
 resultado: Secretaria de Estado do meio Ambiente e do Desenvolvimento Sustentável
+nº de publicações: 11
 
 caderno1_2022_07_21.txt
 resultado: Secretaria de Estado do meio Ambiente e do Desenvolvimento Sustentável
+nº de publicações: 26
 
 caderno1_2023_07_18.txt
-resultado: Secretaria de Estado de meio Ambiente e Desenvolvimento Sustentável Secretária
+resultado: Secretaria de Estado de meio Ambiente e Desenvolvimento Sustentável
+nº de publicações: 24
 
 caderno1_2023_07_20.txt
-resultado: Secretaria de Estado de meio Ambiente e Desenvolvimento Sustentável Secretária
+resultado: Secretaria de Estado de meio Ambiente e Desenvolvimento Sustentável
+nº de publicações: 27
+
+caderno1_2010-12-16.txt
+resultado: Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável
+nº de publicações: 8
+
+caderno1_2011-07-27.txt
+resultado: Secretaria de Estado do meio Ambiente e do Desenvolvimento Sustentável
+nº de publicações: 23
+
+caderno1_2012-07-27.txt
+resultado: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+nº de publicações: 13
+
+caderno1_2013-07-27.txt
+resultado: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+nº de publicações: 9
+
+caderno1_2014-07-22.txt
+resultado: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+nº de publicações: 16
+
+caderno1_2015-07-22.txt
+resultado: Secretaria de Estado do Meio Ambiente e do Desenvolvimento Sustentável
+nº de publicações: 26
+
+caderno1_2016-07-22.txt
+resultado: Secretaria de Estado do meio Ambiente e do Desenvolvimento Sustentável
+nº de publicações: 97
+
+caderno1_2017-07-25.txt
+resultado: Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável
+nº de publicações: 21
+
+caderno1_2018-07-24.txt
+resultado: Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável
+nº de publicações: 23
+
+caderno1_2019_07_20.txt
+resultado: Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável
+nº de publicações: 32
+
+caderno1_2020_07_21.txt
+resultado: Secretaria de Estado do meio Ambiente e do Desenvolvimento Sustentável
+nº de publicações: 22
+
+caderno1_2021_07_21.txt
+resultado: Secretaria de Estado do meio Ambiente e do Desenvolvimento Sustentável
+nº de publicações: 11
+
+caderno1_2022_07_21.txt
+resultado: Secretaria de Estado do meio Ambiente e do Desenvolvimento Sustentável
+nº de publicações: 26
+
+caderno1_2023_07_18.txt
+resultado: Secretaria de Estado de meio Ambiente e Desenvolvimento Sustentável
+nº de publicações: 24
+
+caderno1_2023_07_20.txt
+resultado: Secretaria de Estado de meio Ambiente e Desenvolvimento Sustentável
+nº de publicações: 27

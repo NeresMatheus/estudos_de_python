@@ -48,7 +48,7 @@ def get_content_pages(page, pdf_file):
             search_pattern = 'Secretaria de Estado do Meio Ambiente e do desenvolvimento Sustentável'
     """
 
-    pattern, index = match_pattern(first_page, sec_pattern())
+    pattern, *_ = match_pattern(first_page, sec_pattern())
 
     init_position = first_page.find(pattern)
     end_position = init_position + len(pattern)
