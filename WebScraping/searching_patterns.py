@@ -1,18 +1,22 @@
 import re
 
 
-def find_publication(content, sec_index):
+def find_publications(content, sec_index, year):
 
-    pattern = re.compile(
-        r'[0-9]{2}[ ][0-9]{7}[ ].*?[0-9]|[0-9]{2}[ ][0-9]{6}[ ]-[ ][0-9]')
+    if int(year) <= 2017:
+        pattern = re.compile(
+            r'[0-9]{2}[ ][0-9]{6}[ ]-[ ][0-9]')
+    else:
+        pattern = re.compile(
+            r'[0-9]{2}[ ][0-9]{7}[ ].*?[0-9]')
 
-    publiation_list = [p for p in pattern.finditer(content)]
-    n_publications = len(publiation_list)
+    publication_list = []
+    for p in pattern.finditer(content):
+        publication_list.append(p)
 
-    return publiation_list, n_publications
+    n_publications = len(publication_list)
 
-
-...
+    return publication_list, n_publications
 
 
 def sec_pattern():
@@ -36,6 +40,7 @@ def match_pattern(page, patterns):
 
     for i, pattern in enumerate(patterns):
         if page.find(pattern) != -1:
-            return pattern, i, page.find(pattern)
+            sec_index = page.find(pattern)
+            return pattern, i, sec_index
 
     return 'failed', i, -1

@@ -54,13 +54,12 @@ def make_lPage_log(pdf_file, flag, end_position, first_page):
 def publication_log(txt_file, pucliation_list, content):
     with open('re_teste.txt', 'a', encoding='utf-8') as f:
         log = '\n\t----' + txt_file
-        for i, p in enumerate(pucliation_list):
+        for p in pucliation_list:
             log += "\nposição: " + str(p.start())
-            log += "\nindice: " + str(i)
             log += "\nconteudo: " + p.group()
-            log += "\nconteudo: " + \
-                content[p.start()-3:p.start()+15]
+            log += "\nconteudo: " + content[p.start()-3:p.start()+15] + '\n'
             f.write(log)
+            log = ''
 
     return
 

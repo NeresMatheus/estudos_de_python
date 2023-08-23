@@ -1,27 +1,24 @@
 from os import listdir
 from os.path import isfile, join
-from searching_patterns import sec_pattern, match_pattern, publication_pattern
+from searching_patterns import sec_pattern, match_pattern, find_publications
 from get_logs import txt_pattern_log, publication_log
 import re
 
 if __name__ == '__main__':
+
     """
     txt_path = 'WebScraping\Txts\caderno1_2017-07-25.txt'
 
     with open(txt_path, 'r', encoding="utf-8") as f:
 
         content = f.read()
-        result, index = match_pattern(content, sec_pattern())
+        result, *_, sec_index = match_pattern(content, sec_pattern())
 
-        pattern = re.compile(
-            r'[0-9]{2}[ ][0-9]{6}[ ]-[ ][0-9]')
+        publication_list, n_publications = find_publications(
+            content, sec_index, '2017')
 
-        lista_de_posicoes = [m for m in pattern.finditer(content)]
-
-        n_publications = len(lista_de_posicoes)
-
-
-        txt_pattern_log('caderno1_2017-07-25', result, n_publications)
+        publication_log('caderno1_2017-07-25.txt', publication_list, content)
+        txt_pattern_log('caderno1_2017-07-25.txt', result, n_publications)
 
     """
     txt_dir = 'WebScraping\Txts'
@@ -35,14 +32,11 @@ if __name__ == '__main__':
         with open(txt_path, 'r', encoding="utf-8") as f:
 
             content = f.read()
-            result, index = match_pattern(content, sec_pattern())
+            result, *_, sec_index = match_pattern(content, sec_pattern())
 
-            # make a function in searchin_patterns
-            pattern = re.compile(
-                r'[0-9]{2}[ ][0-9]{7}[ ].*?[0-9]|[0-9]{2}[ ][0-9]{6}[ ]-[ ][0-9]')
+            # kind of don't need n_publications, just need to use len()
+            publication_list, n_publications = find_publications(
+                content, sec_index, txt_file[9:13])  # take year from txt_file
 
-            pucliation_list = [m for m in pattern.finditer(content)]
-            n_publications = len(pucliation_list)
-
-            publication_log(txt_file, pucliation_list, content)
+            publication_log(txt_file, publication_list, content)
             txt_pattern_log(txt_file, result, n_publications)
